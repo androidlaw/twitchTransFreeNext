@@ -27,8 +27,9 @@ import signal
 # if not sys.warnoptions:
 #     warnings.simplefilter("ignore")
 
-version = '2.1.2'
+version = '2.1.3'
 '''
+v2.1.3  : TwitchIO/various dependency updates to fix predictions
 v2.1.2  : _MEI関連
 v2.1.1  : googletrans -> google_trans_new へ置き換え
 v2.1.0  : config.py の導入
